@@ -1,2 +1,2 @@
 # pygame
-一些pygame作品
+一些pygame學習筆記
